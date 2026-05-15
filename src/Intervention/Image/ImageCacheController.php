@@ -3,7 +3,7 @@
 namespace Intervention\Image;
 
 use Closure;
-use Config;
+use Illuminate\Support\Facades\Config;
 use Intervention\Image\ImageManager;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Http\Response as IlluminateResponse;
